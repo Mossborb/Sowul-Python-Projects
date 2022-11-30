@@ -1,0 +1,14 @@
+You can use the built in sort() function and give it 
+a key and reverse parameters. 
+The key will take a function you wrote and sort your list
+based off of the results of a function. 
+
+Also manipulating a list does not require reassigning
+the list to it's self. 
+making 
+
+seq = seq.sort()
+
+not recommended. 
+
+Now I want to create sorting algorithms
