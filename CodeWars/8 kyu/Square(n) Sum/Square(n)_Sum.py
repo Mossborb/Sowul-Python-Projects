@@ -11,4 +11,7 @@ def SquareSum(n):
         sum += i ** 2
     return sum
 
-print(SquareSum([1,2,2,3]))
+#Other submissions
+def square_sum(numbers):
+    return sum(x ** 2 for x in numbers)
+
