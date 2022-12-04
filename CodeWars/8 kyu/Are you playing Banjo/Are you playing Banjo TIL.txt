@@ -1,0 +1,3 @@
+There are many ways of formatting strings in python. 
+Theres is the old format, new format, and f strings format.
+People tend to like the f strings. 
